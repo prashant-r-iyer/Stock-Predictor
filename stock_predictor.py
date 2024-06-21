@@ -306,4 +306,4 @@ if stock_button:
 
     rescaled_test_predictions = dc(temp[:, 0])
 
-    st.write("Based on this, the predicted value for tomorrow is %.2f." % rescaled_test_predictions[0])
+    st.write("Based on this, the predicted closing value for tomorrow is %.2f." % rescaled_test_predictions[0])
