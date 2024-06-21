@@ -267,7 +267,7 @@ if stock_button:
     # Predict tomorrow's price
     st.subheader("Predicting tomorrow's price")
 
-    st.write("We'll first retrain our model to use all 100% of the data available rather than 95%. We'll then predict tomorrow's stock value.")
+    st.write("We'll first retrain our model to use all 100% of the data available rather than 95%. We'll then predict tomorrow's closing stock value.")
 
     loading_text_3 = st.text("Reefeding data into model...")
 
