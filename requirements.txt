@@ -3,7 +3,8 @@ pandas
 numpy
 matplotlib
 matplotlib-inline
+plotly
 scikit-learn
 torch
 streamlit
-plotly
+psycopg
